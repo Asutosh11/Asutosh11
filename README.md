@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Asutosh Panda. Senior Android Engineer at Novopay and part time Python backend and ML engineer. <br/>
+<a href = "https://www.linkedin.com/in/asutosh-panda/">You can reach out to me here</a>
+
+![](https://komarev.com/ghpvc/?username=Asutosh11)
+
+![Asutosh's github stats](https://github-readme-stats.vercel.app/api?username=Asutosh11&hide=contribs,prs&count_private=true&show_icons=true&theme=vue-dark)
+
 <!--
 **Asutosh11/Asutosh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
