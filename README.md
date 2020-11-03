@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I'm Asutosh Panda. Senior Android Engineer at Novopay and part time Python backend and ML engineer. <br/><br/>
-I have been contributing to open source since the start of my career. <br/> I believe that you should give back to the community from where you have got so much. <br/>
-
-<a href = "https://www.linkedin.com/in/asutosh-panda/">You can reach out to me here</a>
+I'm Asutosh Panda. Senior Android Engineer at Novopay and part time Python backend and ML engineer. <br/> <br/>
+<a href = "https://www.linkedin.com/in/asutosh-panda/">You can reach out to me here</a> or have a look at some of my libraries and projects below.
 
 ![](https://komarev.com/ghpvc/?username=Asutosh11)
 
