@@ -1,7 +1,5 @@
-### Hi there 👋, I'm Asutosh Panda
+### Hi there 👋, I'm Asutosh Panda 
 Senior Android Engineer at Novopay and part time Python backend and ML engineer. 
-
-<a href = "https://www.linkedin.com/in/asutosh-panda/">You can reach out to me here</a> or have a look at some of my libraries and projects below.
 
 ![](https://komarev.com/ghpvc/?username=Asutosh11)
 
@@ -10,7 +8,6 @@ Senior Android Engineer at Novopay and part time Python backend and ML engineer.
 <b>Primary Skillset: </b> Android, Java, Kotlin <br/>
 <b>Secondary Skillset: </b> Python backend, Keras, Tensorflow
 
-
-
+<a href = "https://www.linkedin.com/in/asutosh-panda/">You can reach out to me here</a> or have a look at some of my libraries and projects below.
 
 
