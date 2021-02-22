@@ -1,6 +1,6 @@
 #### Hi there, I'm Asutosh Panda 
 Senior Android Engineer at Novopay and part time ML engineer. <br/>
-I believe in learning something new everyday. Love trying cool and technically interesting new stuff.
+I believe in learning something new everyday.
 
 ![](https://komarev.com/ghpvc/?username=Asutosh11)
 
