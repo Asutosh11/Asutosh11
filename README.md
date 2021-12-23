@@ -1,5 +1,5 @@
 #### Hi there, I'm Asutosh Panda 
-Senior Android Engineer at Novopay and part time ML engineer. <br/>
+Senior Android Engineer at Lowe's India. <br/>
 I believe in learning something new everyday.
 
 ![](https://komarev.com/ghpvc/?username=Asutosh11)
