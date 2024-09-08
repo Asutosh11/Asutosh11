@@ -4,8 +4,6 @@ I believe in learning something new everyday.
 
 ![](https://komarev.com/ghpvc/?username=Asutosh11)
 
-<b>Primary Skillset: </b> Android, Java, Kotlin <br/>
-<b>Secondary Skillset: </b>WordPress, Python backend, Keras, Tensorflow, Linux shell scripting <br/>
 <b>Other profiles:</b>
 <a href = "https://stackoverflow.com/users/1439968/asutosh-panda" target="_blank">My StackOverflow account</a>
 
