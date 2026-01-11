@@ -1,7 +1,7 @@
 #### Hi there, I'm Asutosh Panda 
-Senior Android Engineer at Lowe's India. <br/>
+Senior Software Engineer from India.<br/>
 I believe in learning something new everyday.  <br/>
-Loves to solve problems in other technologies as well in personal time like web, shell scripts, linux, cloud, ML/DL.
+Primarily Android and Mobile Apps developer, but loves to solve problems in other technologies as well in personal time like web, shell scripts, linux, cloud, ML/DL.
 
 ![](https://komarev.com/ghpvc/?username=Asutosh11)
 
